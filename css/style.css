@@ -1,0 +1,22 @@
+.home{
+    background-image: url(../im/banner.png);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+body{
+    margin: 0;
+    background-color: rgb(44, 42, 42);
+}
+/* .w{
+    width: 23px;
+    /* height: 30px; */
+
+.col-md-4{
+    background-color: rgba(12, 11, 11, 0.774);
+   
+}
+.col{
+    height: 315px;
+    background-color: rgba(12, 11, 11, 0.774);
+}
